@@ -1,7 +1,9 @@
 # Attack Timeline
 
-|  Time | -------Event-------| Description
+|  Time | -------Event-------| Description|
+
 |-------|--------------------|
+
 | 02:47 | Normal Login | `svc_ci_deploy` authenticated from the expected CI/CD runner (`build-runner-03`). |
 
 | 02:51 | Production Deployment | Pipeline #4471 deployed an approved production commit. |
