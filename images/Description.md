@@ -19,6 +19,7 @@
 > Live network connection showing `rclone.exe` (PID 4188) actively connected to `198.51.100.23:443` at time of capture.
 
 ![Netstat rclone](02-netstat-rclone/image.png)
+![Netstat rclone](Netstat-rclone.PNG)
 
 ---
 
