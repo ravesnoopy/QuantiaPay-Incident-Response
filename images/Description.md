@@ -42,7 +42,7 @@
 
 > Session score: 99/100 across all five response phases.
 
-![Final Score](05-final-score/image.png)
+![Final Score](FinalScore.PNG)
 
 ---
 
