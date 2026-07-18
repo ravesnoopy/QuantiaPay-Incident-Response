@@ -10,7 +10,6 @@
 
 > The correlation rule fires at 03:14:00 — anomalous service account activity combined with active external exfiltration.
 
-![SIEM P1 Alert](01-siem-alert-p1/siem-p1-alert.png)
 ![SIEM P1 Alert](siem-p1-alert.png)
 
 ---
