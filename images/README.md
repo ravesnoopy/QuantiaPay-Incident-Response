@@ -5,7 +5,7 @@
 
 ## Final Score
 
-![Final Score](images/05-final-score/image.png)
+![Final Score](FinalScore.PNG)
 
 ---
 
@@ -37,7 +37,7 @@ The root cause: the account's authentication token was exposed in a public build
 
 ## Attack Timeline
 
-![SIEM Alert](images/01-siem-alert-p1/image.png)
+![SIEM Alert](siem-p1-alert.png)
 
 ```
 02:47  Legitimate CI/CD login — svc_ci_deploy from build-runner-03
@@ -62,15 +62,15 @@ The root cause: the account's authentication token was exposed in a public build
 
 ## Key Evidence
 
-![Netstat rclone](images/02-netstat-rclone/image.png)
+![Netstat rclone](Netstat%20rclone.PNG)
 
-![RAM Capture](images/03-ram-capture/image.png)
+![RAM Capture](Ram.PNG)
 
 ---
 
 ## Verification
 
-![Verify All](images/04-verify-all/image.png)
+![Verify All](verifyall.PNG)
 
 ---
 
