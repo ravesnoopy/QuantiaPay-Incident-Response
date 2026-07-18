@@ -26,7 +26,7 @@
 
 > 16 GB memory image secured from `jump-02`. Contains `rclone.exe` in memory and `temp.conf` with the exfiltration destination.
 
-![RAM Capture](03-ram-capture/image.png)
+![RAM Capture](Ram.PNG)
 
 ---
 
@@ -34,7 +34,7 @@
 
 > All six post-eradication checkpoints confirmed clean.
 
-![Verify All](04-verify-all/image.png)
+![Verify All](verifyall.PNG)
 
 ---
 
