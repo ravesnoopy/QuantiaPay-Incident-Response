@@ -1,4 +1,5 @@
-![Banner](banner.png)
+
+![Banner](images/banner.png)
 
 # QuantiaPay Incident Response
 ### A Blue Team simulation by Leonardo Romero Garcia
